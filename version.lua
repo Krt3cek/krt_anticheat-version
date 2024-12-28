@@ -1,4 +1,4 @@
 {
-	"version": "0.9",
-	"changelog": "BETA"
+	"version": "0.91",
+	"changelog": "ADDED VEHICLE NOCLIP DETECTION"
 }
