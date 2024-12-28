@@ -1,4 +1,4 @@
 {
-	"version": "0.91",
-	"changelog": "ADDED VEHICLE NOCLIP DETECTION"
+	"version": "0.92",
+	"changelog": "ADDED AUTO SQL"
 }
