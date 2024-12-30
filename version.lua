@@ -1,4 +1,4 @@
 {
-	"version": "0.9.3",
-	"changelog": "ADDED MORE DETECTIONS"
+	"version": "0.9.3.1",
+	"changelog": "FIXED CONNECTION CARD"
 }
