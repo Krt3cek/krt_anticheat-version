@@ -1,4 +1,4 @@
 {
-	"version": "0.92",
-	"changelog": "ADDED AUTO SQL"
+	"version": "0.9.3",
+	"changelog": "ADDED MORE DETECTIONS"
 }
