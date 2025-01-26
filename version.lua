@@ -1,4 +1,4 @@
 {
-	"version": "0.9.6.0",
-	"changelog": "ADMIN MENU IN PROGRESS"
+	"version": "0.9.7.0",
+	"changelog": "ADDED TOO MUCH THINGS"
 }
