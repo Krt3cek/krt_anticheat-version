@@ -1,5 +1,5 @@
 {
-	"version": "0.9.7.1",
+	"version": "0.9.7.8",
 	"changelog": "BIG UPDATE - ADDED MORE DETECTIONS, FIXED DETECTIONS, FIXED SOME BUGS",
 	"nextlog": "NEW AIMBOT, INFINITE BULLETS AND MORE NEW DETECTIONS"
 }
